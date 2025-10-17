@@ -1,6 +1,6 @@
 """
 Usage (example):
-  python train.py --epochs 300 --seed 0 --fold 0 --pretrained
+  python train.py --epochs 300 --seed 0 --fold 0
 """
 from __future__ import print_function
 import os
