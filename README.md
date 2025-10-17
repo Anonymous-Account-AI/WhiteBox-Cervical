@@ -137,13 +137,13 @@ Images are resized to 256, randomly cropped to 224 with horizontal flip for trai
 
 ```bash
 # DSCC, fold 0
-python train.py --d d --fold 0 --epochs 300 --seed 0 --pretrained
+python train.py --d d --fold 0 --epochs 300 --seed 0
 
 # Herlev, fold 3
-python train.py --d h --fold 3 --epochs 300 --seed 0 --pretrained
+python train.py --d h --fold 3 --epochs 300 --seed 0
 
 # SIPaKMeD, fold 4
-python train.py --d s --fold 4 --epochs 300 --seed 0 --pretrained
+python train.py --d s --fold 4 --epochs 300 --seed 0
 
 ```
 
