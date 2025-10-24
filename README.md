@@ -110,21 +110,6 @@ datasets/
 -   `--fold {0..4}` selects the fold index
     
 
-----------
-
-### Installation
-
-**Clone and setup**
-
-```bash
-git clone <this-repo-url>
-cd <this-repo>
-conda env create -f environment.yml
-conda activate pytorch_1.11.0
-
-```
-
-----------
 
 ### Training
 
