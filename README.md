@@ -3,7 +3,6 @@
 Code release for **Compact and Structurally Transparent Cervical Cytology with Geometry-Driven Features and Closed-Form Attention**.  
 The model derives attention from explicit pathological concepts and uses it solely for interpretable feature sampling.
 
-![Overview](./assets/overview.png)
 
 ---
 
